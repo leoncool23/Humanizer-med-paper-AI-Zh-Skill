@@ -1,5 +1,5 @@
 ---
-name: humanizer-med-paper-skill
+name: humanizer-med-paper-zh-skill
 description: |
   对中文医学学术论文、临床研究报告、系统综述和摘要进行两轮降 AIGC 改写。
   第1轮做词汇降维、句法冗余化、逻辑松散化，将机器报告风格转为资深研究者行文风格，全程保留被动语态和学术规范；
