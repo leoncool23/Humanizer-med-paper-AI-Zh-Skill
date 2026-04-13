@@ -1,4 +1,4 @@
-# Humanizer-med-paper-AI-Skill-  
+# Humanizer-med-paper-AI-Skill
 
 
 
