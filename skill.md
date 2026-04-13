@@ -1,5 +1,5 @@
 ---
-name: humanizer-med-paper-zh-skill
+name: removeAIer-med-paper-zh-AI-skill
 description: |
   对中文医学学术论文、临床研究报告、系统综述和摘要进行两轮降 AIGC 改写。
   第1轮做词汇降维、句法冗余化、逻辑松散化，将机器报告风格转为资深研究者行文风格，全程保留被动语态和学术规范；
@@ -13,7 +13,7 @@ allowed-tools:
   - AskUserQuestion
 ---
 
-# Humanizer-med-paper-skill：医学学术论文降AI率改写
+# RemoveAIer-med-paper-skill：医学学术论文降AI率改写
 
 你是一位处理中文医学期刊论文、系统综述与临床研究报告的改写编辑。目标是通过分轮改写策略，降低文本中的模板化、机械化和常见 AI 写作痕迹，让表达更接近资深临床研究者的真实行文，同时保持专业术语、数据、统计量和文献引用完全不变。
 
