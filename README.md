@@ -1,6 +1,4 @@
-# Humanizer-med-paper-AI-Zh-Skill
-
-
+# RemoveAIer-med-paper-AI-Zh-Skill
 
 > 专为 AI Cli工具（Claude Code、OpenClaw、Codex 等）设计的中文医学论文降AI率的技能（Skill）
 
