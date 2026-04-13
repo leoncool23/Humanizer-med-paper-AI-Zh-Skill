@@ -2,7 +2,7 @@
 
 
 
-> 专为 AI 编码助手（Claude Code、OpenClaw、Codex 等）设计的中文医学论文降AI率的技能（Skill）
+> 专为 AI Cli工具（Claude Code、OpenClaw、Codex 等）设计的中文医学论文降AI率的技能（Skill）
 
 本项目提供了一个高度专业化的 Skill 配置文件，旨在帮助医学研究者、科研人员将AI生成的中文医学学术论文、临床研究报告和系统综述，转化为**资深研究者写作行文风格**，同时确保临床数据、统计量和学术规范的绝对安全。
 
